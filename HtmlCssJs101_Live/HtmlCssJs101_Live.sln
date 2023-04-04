@@ -3,9 +3,24 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EF024F93-C0AA-433F-A098-5A875F10BA92}"
+	ProjectSection(SolutionItems) = preProject
+		about.html = about.html
+		contact.html = contact.html
+		index.html = index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{B41A92F8-93B9-488F-8348-3F78E1A3353B}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Users\Ertugrul\Pictures\cady.png = ..\..\..\..\Users\Ertugrul\Pictures\cady.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B41A92F8-93B9-488F-8348-3F78E1A3353B} = {EF024F93-C0AA-433F-A098-5A875F10BA92}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9C661DA0-A664-4DF2-8173-937B65D2AA48}
