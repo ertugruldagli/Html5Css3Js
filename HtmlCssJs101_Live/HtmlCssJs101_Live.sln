@@ -7,12 +7,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	ProjectSection(SolutionItems) = preProject
 		about.html = about.html
 		contact.html = contact.html
+		bodyElements.html = bodyElements.html
 		index.html = index.html
+		ertugrul.html = ertugrul.html
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{B41A92F8-93B9-488F-8348-3F78E1A3353B}"
 	ProjectSection(SolutionItems) = preProject
 		..\..\..\..\Users\Ertugrul\Pictures\cady.png = ..\..\..\..\Users\Ertugrul\Pictures\cady.png
+		..\..\..\..\Users\Ertugrul\Pictures\Camera Roll\ss.PNG = ..\..\..\..\Users\Ertugrul\Pictures\Camera Roll\ss.PNG
 	EndProjectSection
 EndProject
 Global
