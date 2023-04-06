@@ -6,10 +6,11 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EF024F93-C0AA-433F-A098-5A875F10BA92}"
 	ProjectSection(SolutionItems) = preProject
 		about.html = about.html
-		contact.html = contact.html
 		bodyElements.html = bodyElements.html
-		index.html = index.html
+		contact.html = contact.html
+		ed.html = ed.html
 		ertugrul.html = ertugrul.html
+		index.html = index.html
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{B41A92F8-93B9-488F-8348-3F78E1A3353B}"
