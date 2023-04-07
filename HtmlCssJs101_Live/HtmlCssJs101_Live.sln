@@ -19,7 +19,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{B41A92
 		..\..\..\..\Users\Ertugrul\Pictures\Camera Roll\ss.PNG = ..\..\..\..\Users\Ertugrul\Pictures\Camera Roll\ss.PNG
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTMLTable", "HTMLTable\HTMLTable.csproj", "{F163B484-4034-4AF7-A60F-2311EE469AC0}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F163B484-4034-4AF7-A60F-2311EE469AC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F163B484-4034-4AF7-A60F-2311EE469AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F163B484-4034-4AF7-A60F-2311EE469AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F163B484-4034-4AF7-A60F-2311EE469AC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
