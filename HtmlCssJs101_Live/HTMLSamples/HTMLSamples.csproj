@@ -413,6 +413,14 @@
     <Content Include="Barkın ders\PROJELER\Çalışma\Ödev3.txt" />
     <Content Include="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" />
     <Content Include="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" />
+    <Content Include="BlueDenim\Images\anaresim.png" />
+    <Content Include="BlueDenim\Images\Kalp.png" />
+    <Content Include="BlueDenim\Images\kisi.jpg" />
+    <Content Include="BlueDenim\Images\Logo.png" />
+    <Content Include="BlueDenim\Images\shopping.png" />
+    <Content Include="BlueDenim\Images\web.gif" />
+    <Content Include="BlueDenim\index.html" />
+    <Content Include="BlueDenim\styles.css" />
     <Content Include="images\1.png" />
     <Content Include="images\11.png" />
     <Content Include="images\2.png" />
