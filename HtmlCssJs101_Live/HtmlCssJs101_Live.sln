@@ -11,6 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		ed.html = ed.html
 		ertugrul.html = ertugrul.html
 		index.html = index.html
+		stylee.css = stylee.css
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{B41A92F8-93B9-488F-8348-3F78E1A3353B}"
@@ -20,6 +21,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{B41A92
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTMLTable", "HTMLTable\HTMLTable.csproj", "{F163B484-4034-4AF7-A60F-2311EE469AC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTMLSamples", "HTMLSamples\HTMLSamples.csproj", "{6888A8D1-FE9F-4B9C-B264-5A301E621F47}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +34,10 @@ Global
 		{F163B484-4034-4AF7-A60F-2311EE469AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F163B484-4034-4AF7-A60F-2311EE469AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F163B484-4034-4AF7-A60F-2311EE469AC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6888A8D1-FE9F-4B9C-B264-5A301E621F47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6888A8D1-FE9F-4B9C-B264-5A301E621F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6888A8D1-FE9F-4B9C-B264-5A301E621F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6888A8D1-FE9F-4B9C-B264-5A301E621F47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

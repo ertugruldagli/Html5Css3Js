@@ -1,0 +1,28 @@
+﻿#tableson {
+    text-align: left;
+    position: relative;
+    border-collapse: collapse;
+    background-color: #f6f6f6;
+}
+/* Spacing */
+#tableson td {
+    border: 1px solid #999;
+    padding: 20px;
+}
+
+#tableson td {
+    background: brown;
+    color: white;
+    border-radius: 5;
+    position: sticky;
+    top: 0;
+    padding: 10px;
+}
+
+#tableson .primary {
+    background-color: brown
+}
+
+#tableson tbody > tr:hover {
+    background-color: #ffc107;
+}
