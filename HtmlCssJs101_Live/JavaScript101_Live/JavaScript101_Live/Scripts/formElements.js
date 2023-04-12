@@ -31,12 +31,18 @@ function carp() {
 
 
 function bolme() {
+
+   
     var s1, s2, sonuc;
 
     s1 = parseInt(document.getElementById("tbox3").value);
     s2 = parseInt(document.getElementById("tbox4").value);
-
-    sonuc = s1 / s2;
+    if (s1 != 0) {
+        sonuc = s1 / s2;
+    } else {
+        alert("lütfen sıfırdan farklı bir deeğer giriniz:")
+    }
+    
 
     document.getElementById("tbox5").value = sonuc;
 }
