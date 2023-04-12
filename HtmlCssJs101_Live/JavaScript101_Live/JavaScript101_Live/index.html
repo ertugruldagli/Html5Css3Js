@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>JavaScript 01</title>
+    <script>// Kaynak incelemede burda yazılan yorumlar gözükmüyor</script>
+</head>
+<body>
+    <!-- Donuk HTML sayfalarını dinamikleştiren özellikler ekliyor -->
+    <!-- İki türlü kullanım var. 1) Inline ve 2) Harici -->
+    <!-- Not(öneri): Eğer sayfaların daha hızlı açılması isteniyorsa script blokları son body etiketinin üzerinde tanımlanmalıdır. -->
+
+    <h1>JavaScript dünyasına hoşgeldiniz.</h1>
+    <br />
+    <br />
+
+
+
+
+    <!-- JavaScript kısmı -->
+
+    <script>
+    // tek satırlık açıklama satırı
+        /* çok satırlı açıklama
+         .......
+         .......
+         */
+        // syf geldiği anda çalışmaya başlıyor
+        //DOM - document object model
+
+        document.write("Hello World!");   // ; ile bitecek - yazılmazsa derleyici hata vermez ama kod çalışmaz
+        document.write("<br/><br/>"); // satır atlama HTML stili ile
+        document.write("Merhaba Dünya!");
+        document.write("<br/><br/>"); // satır atlama HTML stili ile
+
+        //kurallara bağlı bir dil.
+        //;
+        //değişken tanımlama
+
+        var x = 0, y, toplam = 0;
+        x = x + 1;
+        toplam = toplam + x;
+
+        document.write("toplam sonucu= " + toplam);</script>
+
+    <script>
+    //Bloklardan oluşan bir yapıya sahiptir.
+        function topla() {//Blok başlangıcı
+
+        }</script>
+
+    <script>
+
+        function topla() {
+            var x, y;
+            var toplam = 0;
+            x = 1;
+            y = 5;
+            toplam = x + y;
+            document.writeln("toplam sonuç:" + toplam);
+
+        }
+
+    </script>
+
+    <script>
+
+        //büyük küçük harf duyarlıdır.yani x ile X birbirinden farklıdır.
+
+        var x, X;
+        x = 5;
+        X = 15;
+        document.writeln("x: " + x);
+        document.write("<br/><br>");
+        document.writeln("X: " + X);
+    </script>
+
+    <script>
+        alert( "bur bir mesajdır.");
+    </script>
+</body>
+</html>

@@ -414,9 +414,14 @@
     <Content Include="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" />
     <Content Include="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" />
     <Content Include="BlueDenim\Images\anaresim.png" />
+    <Content Include="BlueDenim\Images\coklu2.png" />
+    <Content Include="BlueDenim\Images\coklu3.png" />
+    <Content Include="BlueDenim\Images\coklubir.png" />
+    <Content Include="BlueDenim\Images\footer.png" />
     <Content Include="BlueDenim\Images\Kalp.png" />
     <Content Include="BlueDenim\Images\kisi.jpg" />
     <Content Include="BlueDenim\Images\Logo.png" />
+    <Content Include="BlueDenim\Images\maviblack.png" />
     <Content Include="BlueDenim\Images\shopping.png" />
     <Content Include="BlueDenim\Images\web.gif" />
     <Content Include="BlueDenim\index.html" />
@@ -444,6 +449,7 @@
   <ItemGroup>
     <Content Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
     <Content Include="obj\Debug\HTMLSamples.csproj.AssemblyReference.cache" />
+    <Content Include="BlueDenim\Images\red" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
