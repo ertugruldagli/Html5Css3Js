@@ -13,7 +13,9 @@
     <h1>JavaScript dünyasına hoşgeldiniz.</h1>
     <br />
     <br />
-    <p id="lorem" style=" display:none">Lorem ipsum dolor sit amet...</p>
+   <!--<p id="lorem" style=" display:none">Lorem ipsum dolor sit amet...</p>--> 
+
+    <p id="lorem" >Lorem ipsum dolor sit amet...</p>
 
 
 
@@ -21,7 +23,7 @@
     <!-- JavaScript kısmı -->
 
     <script>
-    // tek satırlık açıklama satırı
+        // tek satırlık açıklama satırı
         /* çok satırlı açıklama
          .......
          .......
@@ -45,7 +47,7 @@
         document.write("toplam sonucu= " + toplam);</script>
 
     <script>
-    //Bloklardan oluşan bir yapıya sahiptir.
+        //Bloklardan oluşan bir yapıya sahiptir.
         function topla() {//Blok başlangıcı
 
         }</script>
@@ -78,7 +80,7 @@
 
 
     <script>
-       // alert( "bu bir mesajdır.");
+        // alert( "bu bir mesajdır.");
         //mesaj kutusu çıkar.
     </script>
 
@@ -86,10 +88,22 @@
         //js tarafından ekrandaki  html etiketlerine erişim yapılabilir(innerHTML)
         var icerik;
 
-       document.write("<br/><br/>")
+        document.write("<br/><br/>")
         icerik = document.getElementById("lorem").innerHTML;
 
         document.write(icerik);
+    </script>
+
+    <script>
+
+        var content;
+        content = "Deneme....Deneme...";
+
+        //yukarda gözüken p tagının içeriğini değişkeninin değerini değiştirme nasıl olur.
+
+        document.write("<br/><br/>")
+        content = document.getElementById("lorem").innerHTML;
+        document.write(content);
     </script>
 
 </body>
