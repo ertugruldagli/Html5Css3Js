@@ -13,6 +13,7 @@
     <h1>JavaScript dünyasına hoşgeldiniz.</h1>
     <br />
     <br />
+    <p id="lorem" style=" display:none">Lorem ipsum dolor sit amet...</p>
 
 
 
@@ -75,8 +76,21 @@
         document.writeln("X: " + X);
     </script>
 
+
     <script>
-        alert( "bur bir mesajdır.");
+       // alert( "bu bir mesajdır.");
+        //mesaj kutusu çıkar.
     </script>
+
+    <script>
+        //js tarafından ekrandaki  html etiketlerine erişim yapılabilir(innerHTML)
+        var icerik;
+
+       document.write("<br/><br/>")
+        icerik = document.getElementById("lorem").innerHTML;
+
+        document.write(icerik);
+    </script>
+
 </body>
 </html>
