@@ -37,6 +37,7 @@ function bolme() {
 
     s1 = parseInt(document.getElementById("tbox3").value);
     s2 = parseInt(document.getElementById("tbox4").value);
+
     if (s1 != 0) {
         sonuc = s1 / s2;
     } else {
