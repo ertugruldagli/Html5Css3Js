@@ -50,7 +50,6 @@ C:\UCC08\Projects\Html5Css3Js\HtmlCssJs101_Live\JavaScript101_Live\JavaScript101
 C:\UCC08\Projects\Html5Css3Js\HtmlCssJs101_Live\JavaScript101_Live\JavaScript101_Live\bin\roslyn\vbc.rsp
 C:\UCC08\Projects\Html5Css3Js\HtmlCssJs101_Live\JavaScript101_Live\JavaScript101_Live\bin\roslyn\VBCSCompiler.exe
 C:\UCC08\Projects\Html5Css3Js\HtmlCssJs101_Live\JavaScript101_Live\JavaScript101_Live\bin\roslyn\VBCSCompiler.exe.config
-C:\UCC08\Projects\Html5Css3Js\HtmlCssJs101_Live\JavaScript101_Live\JavaScript101_Live\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\UCC08\Projects\Html5Css3Js\HtmlCssJs101_Live\JavaScript101_Live\JavaScript101_Live\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\UCC08\Projects\Html5Css3Js\HtmlCssJs101_Live\JavaScript101_Live\JavaScript101_Live\obj\Debug\JavaScript101_Live.csproj.AssemblyReference.cache
 C:\UCC08\Projects\Html5Css3Js\HtmlCssJs101_Live\JavaScript101_Live\JavaScript101_Live\obj\Debug\JavaScript101_Live.csproj.CoreCompileInputs.cache
