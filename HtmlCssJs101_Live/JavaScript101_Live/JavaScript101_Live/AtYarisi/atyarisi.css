@@ -1,0 +1,25 @@
+﻿#kapsayici {
+	margin-top:25px;
+	background-color:olivedrab;
+}
+img {
+	width:100px;
+	height:100px;
+	transition: all 2s;
+
+}
+
+#bitis {
+	width:10px;
+	height:575px;
+	position:relative;
+	float:right;
+	background-color:black;
+	margin-right:10px;
+}
+button {
+	width: 150px;
+	height: 75px;
+	font-family: Verdana;
+	font-size: 20px;
+}

@@ -67,6 +67,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="AtYarisi\atyarisi.css" />
+    <Content Include="AtYarisi\atyarisi.html" />
+    <Content Include="AtYarisi\atyarisi.js" />
+    <Content Include="AtYarisi\images\atresmi1.png" />
+    <Content Include="AtYarisi\images\atresmi2.png" />
+    <Content Include="AtYarisi\images\atresmi3.png" />
+    <Content Include="AtYarisi\images\atresmi4.png" />
+    <Content Include="AtYarisi\images\atresmi5.png" />
     <Content Include="formElements.html" />
     <Content Include="index.html" />
     <Content Include="Scripts\formElements.js" />
